@@ -14,8 +14,7 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 output:
 
-https://github.com/kelvinprabhu07-spec/Ex.No-6-Prompt-Engineering/blob/main/Ex6_MultipleAI_Tools%20(1).pptx
-
+https://github.com/kelvinprabhu07-spec/Ex.No-6-Prompt-Engineering/blob/main/Ex6_MultipleAI_Tools%20(1)%20-6.pdf
 
 Result: 
 
